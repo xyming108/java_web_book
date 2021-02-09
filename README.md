@@ -15,9 +15,11 @@
    
    数据库：创建 t_book, t_order, t_order_item, t_user表
    
-   | ![t_book](https://github.com/xyming108/java_web_book/blob/master/t_book.png) | ![t_orde](https://github.com/xyming108/java_web_book/blob/master/t_orde.png) |
-   | ------------------------------------------------------------ | ------------------------------------------------------------ |
-   | ![t_order_item](https://github.com/xyming108/java_web_book/blob/master/t_order_item.png) | ![t_user](https://github.com/xyming108/java_web_book/blob/master/t_user.png) |
+   | ![t_book](https://github.com/xyming108/java_web_book/blob/master/t_book.png) |
+   | ------------------------------------------------------------ |
+   | ![t_orde](https://github.com/xyming108/java_web_book/blob/master/t_order.png) |
+   | ![t_order_item](https://github.com/xyming108/java_web_book/blob/master/t_order_item.png) |
+   | ![t_user](https://github.com/xyming108/java_web_book/blob/master/t_user.png) |
    
 - 业务逻辑层
    Service：调用数据访问层处理业务逻辑，采用面向接口编程的思想，先定义接口，再创建实现类
