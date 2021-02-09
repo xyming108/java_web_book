@@ -7,230 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="520d2df4-13ae-4425-aa2d-5627a32b88ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/java_web_book_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/8f5ecdb4-c968-4e9e-80b2-1e1c7f24f2fe.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/java_web_book.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_web_book.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/dao/BookDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/dao/OrderDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/dao/OrderItemDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/dao/impl/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/dao/impl/BookDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/dao/impl/OrderDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/dao/impl/OrderItemDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/filter/ManagerFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/filter/TransactionFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/pojo/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/pojo/Cart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/pojo/CartItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/pojo/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/pojo/OrderItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/pojo/Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/service/BookService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/service/OrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/service/impl/BookServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/test/BookDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/test/BookServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/test/CartTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/test/OrderDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/test/OrderItemDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/test/OrderServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/test/UserDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/test/UserServiceImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/test/jdbcUtilsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/utils/WebUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/utils/jdbcUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/web/BaseServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/web/BookServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/web/CartServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/web/ClientBookServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/web/OrderServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/classes/lib/web/UserServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/groovy-all-2.4.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/mysql-connector-java-8.0.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/cart/cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/cart/checkout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/client/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/common/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/common/login_success_menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/common/manager_menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/common/page_nav.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/error/error500.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/manager/book_edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/manager/book_manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/manager/manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/manager/order_manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/order/order.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/test/dzcp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/test/fzyp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/test/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/user/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/user/login_success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/user/regist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/pages/user/regist_success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/static/img/code.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/static/img/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/static/img/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/static/img/pwd-icons-new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/java_web_book_war_exploded/static/jquery-3.5.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/dao/BookDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/dao/OrderDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/dao/OrderItemDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/dao/impl/BaseDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/dao/impl/BookDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/dao/impl/OrderDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/dao/impl/OrderItemDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/dao/impl/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/filter/ManagerFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/filter/TransactionFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/pojo/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/pojo/Cart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/pojo/CartItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/pojo/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/pojo/OrderItem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/pojo/Page.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/pojo/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/service/BookService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/service/OrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/service/impl/BookServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/service/impl/OrderServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/test/BookDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/test/BookServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/test/CartTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/test/OrderDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/test/OrderItemDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/test/OrderServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/test/UserDaoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/test/UserServiceImplTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/test/jdbcUtilsTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/utils/WebUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/utils/jdbcUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/web/BaseServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/web/BookServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/web/CartServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/web/ClientBookServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/web/OrderServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/java_web_book/lib/web/UserServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/dao/BookDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/dao/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/dao/OrderItemDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/dao/impl/BaseDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/dao/impl/BookDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/dao/impl/OrderDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/dao/impl/OrderItemDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/filter/ManagerFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/filter/TransactionFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/pojo/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/pojo/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/pojo/CartItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/pojo/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/pojo/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/pojo/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/pojo/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/service/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/service/impl/BookServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/test/BookDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/test/BookServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/test/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/test/OrderDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/test/OrderItemDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/test/OrderServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/test/UserDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/test/UserServiceImplTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/test/jdbcUtilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/utils/WebUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/utils/jdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/web/BaseServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/web/BookServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/web/CartServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/web/ClientBookServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/web/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/web/OrderServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/web/RegistServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/web/UserServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/druid-1.1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/gson-2.2.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/kaptcha-2.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-8.0.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/cart/cart.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/cart/checkout.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/client/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/common/footer.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/common/head.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/common/login_success_menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/common/manager_menu.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/common/page_nav.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/error/error500.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/manager/book_edit.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/manager/book_manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/manager/manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/manager/order_manager.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/order/order.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/test/dzcp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/test/fzyp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/test/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/user/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/user/login_success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/user/regist.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/pages/user/regist_success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/img/code.bmp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/img/default.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/img/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/img/pwd-icons-new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/static/jquery-3.5.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -287,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/pages/client/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+            <state relative-caret-position="154">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -765,10 +542,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49858758" visible="true" weight="0.19395973" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" visible="true" weight="0.19395973" />
       <window_info id="Structure" order="1" sideWeight="0.50141245" side_tool="true" weight="0.3147651" />
       <window_info id="设计师" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -791,7 +567,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" weight="0.32909605" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32909605" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5053691" side_tool="true" weight="0.3898305" />
-      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.39548022" />
       <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.4969988" weight="0.3257143" />
       <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
       <window_info anchor="bottom" id="Application Servers" order="17" weight="0.32909605" />
@@ -854,6 +630,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1373,8 +1153,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/pages/client/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="154">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
         </state>
       </provider>
     </entry>
