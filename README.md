@@ -1,7 +1,3 @@
-[TOC]
-
-
-
 # java_web_book
 
 用java_web写的书城项目
