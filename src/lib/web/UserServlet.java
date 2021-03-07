@@ -89,7 +89,6 @@ public class UserServlet extends BaseServlet {
 
         User user = WebUtils.copyParamToBean(req.getParameterMap(), new User());
 
-        //固定验证码为abcde
         if (token != null && token.equalsIgnoreCase(code)) {
             if (userService.existsUsername(username)) {
                 System.out.println("用户名" + username + "已存在");

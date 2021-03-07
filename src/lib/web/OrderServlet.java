@@ -4,7 +4,6 @@ import lib.pojo.Cart;
 import lib.pojo.User;
 import lib.service.OrderService;
 import lib.service.impl.OrderServiceImpl;
-import lib.utils.jdbcUtils;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
